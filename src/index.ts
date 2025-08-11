@@ -1,4 +1,4 @@
-// src/index.ts
+// src/index.ts aaaa
 import { registerEditorExtension } from "@minecraft/server-editor";
 import type { IDisposable } from "@minecraft/server-editor";
 
